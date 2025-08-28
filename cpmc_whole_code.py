@@ -17,7 +17,7 @@ conn = pymysql.connect(
     host='cpmc.ccwhfsqzn9mq.us-west-1.rds.amazonaws.com',
     port=int(3306),
     user="admin",
-    passwd="UCDavis2021",
+    passwd="xxxxxxx",
     db="cpmcpracticum",
     charset='utf8mb4')
 
